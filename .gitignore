@@ -14,7 +14,6 @@ Homestead.yaml
 /ignorables/*
 /node_modules
 npm-debug.log
-package-lock.json
 /public/css
 /public/js
 /public/hot
@@ -24,5 +23,4 @@ package-lock.json
 /storage/*.key
 /storage/dcc-data/
 /vendor
-yarn.lock
 yarn-error.log
