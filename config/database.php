@@ -75,7 +75,7 @@ return [
             'prefix'         => env('DB_PREFIX', ''),
             'prefix_indexes' => true,
             'schema'         => 'public',
-            'sslmode'        => 'prefer',
+            'sslmode'        => 'require',
         ],
 
         'sqlsrv' => [
